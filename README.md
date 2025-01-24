@@ -1,7 +1,6 @@
 #### Hi there 👋 , my name is Cyril 🙂
 
 <!--
-**kunlesanni/kunlesanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Git is valuable because it allows you to track changes to your code over <span style="font-size: 1em;">time</span>
 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445)](https://github.com/kunlesanni/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&layout=compact&card_width=445&hide=html,css,C#)](https://github.com/kunlesanni/github-readme-stats)
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunlesanni&hide=javascript,html)-->
 
