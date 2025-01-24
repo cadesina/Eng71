@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 I’m currently building cloud empires on Azure, transforming ideas into scalable resources!
-📖 Delving into the fascinating realm of Infrastructure as Code, mastering the art of automation one script at a time.
-🤝 Open to teaming up on next-level cloud innovations – let’s engineer some cutting-edge solutions together!
-🧩 Seeking insights into refining my deployment workflows (or unlocking the secrets of a flawless pipeline).
-💡 Curious about my cloud journey? Let’s chat about all things Infrastructure as Code and beyond!
-📬 Contact me: feel free to reach out right here - https://www.linkedin.com/
-🌟 Pronouns: Cloud/Tehcnical Architect.
-🎢 Fun fact: Who knew provisioning resources could feel as exhilarating as an adventure park? Cloud computing – where the thrills are virtual but the impact is real!
+- 🚀 I’m currently building cloud empires on Azure, transforming ideas into scalable resources!
+- 📖 Delving into the fascinating realm of Infrastructure as Code, mastering the art of automation one script at a time.
+- 🤝 Open to teaming up on next-level cloud innovations – let’s engineer some cutting-edge solutions together!
+- 🧩 Seeking insights into refining my deployment workflows (or unlocking the secrets of a flawless pipeline).
+- 💡 Curious about my cloud journey? Let’s chat about all things Infrastructure as Code and beyond!
+- 📬 Contact me: feel free to reach out right here - https://www.linkedin.com/
+- 🌟 Pronouns: Cloud/Tehcnical Architect.
+- 🎢 Fun fact: Who knew provisioning resources could feel as exhilarating as an adventure park? Cloud computing – where the thrills are virtual but the impact is real!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunlesanni&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
